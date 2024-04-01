@@ -1,0 +1,12 @@
+.title-container
+{
+    align-self: center;
+    width: 35vw;
+    height: auto;
+}
+
+.title-container h2
+{
+    text-align: left;
+    font-size: 48px;
+}
