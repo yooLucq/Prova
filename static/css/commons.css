@@ -72,3 +72,17 @@
     font-style: italic;
   }
   
+  @import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&display=swap');
+  
+
+.overpass-mono {
+  font-family: "Overpass Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: lighter;
+  font-style: normal;
+}
+
+.overpass-mono-bold{
+  font-weight: bold;
+}
+
