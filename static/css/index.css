@@ -1,0 +1,16 @@
+@import "title.css";
+@import "commons.css";
+@import "text.css";
+@import "signature.css";
+@import "img.css";
+
+
+.container
+{
+    background-color: beige;
+}
+
+body
+{
+    padding: 20px;
+}

@@ -1,9 +1,5 @@
-.img-container
+.img-container img
 {
-    align-self: center;
-    width: 1068px;
-    height: 710px;
-    left: 185px;
-    top: 314px;
+    width: 100%;
 }
 

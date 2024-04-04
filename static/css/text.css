@@ -1,22 +1,10 @@
 .text-container
 {
-    margin: 2vw;
-    align-self: center;
-    width: 710px;
-    height: 456px;
-    left: 365px;
-    top: 1104px;
+    margin-top: 80px;
+    margin-bottom: 35px;
 }
 
-.text-conteiner p
+.text-container p
 {
     font-size: 18px;
 }
-
-
-
-
-
-
-
-
